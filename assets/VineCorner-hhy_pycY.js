@@ -1,0 +1,1 @@
+import{l as e,n as t}from"./index-egGwKc9H.js";var n=t();function r({side:t}){return(0,n.jsx)(`img`,{className:`vine vine--${t}`,src:e(`art/vine-left.webp`),alt:``,"aria-hidden":`true`,draggable:!1})}export{r as t};
